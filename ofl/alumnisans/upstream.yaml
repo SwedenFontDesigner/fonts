@@ -2,3 +2,4 @@ branch: master
 files:
   fonts/variable/AlumniSans[wght].ttf: AlumniSans[wght].ttf
   fonts/variable/AlumniSans-Italic[wght].ttf: AlumniSans-Italic[wght].ttf
+repository_url: https://github.com/googlefonts/alumni
